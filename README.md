@@ -1,7 +1,7 @@
-# Glass Puzzle — дополнительные уровни
+# Glass Puzzle — дополнительные уровни (glasspuzzleimages)
 
 Отсюда игра Glass Puzzle подгружает новые картинки без выпуска в Google Play.
-Раздаётся через GitHub Pages: https://nurgeldiserikbay.github.io/glasspuzzle-levels/levels.json
+Раздаётся через GitHub Pages: https://nurgeldiserikbay.github.io/glasspuzzleimages/levels.json
 
 - `levels.json` — список уровней: `{ "levels": [ { "id", "src", "width", "height" } ] }`.
   Номера строго подряд с 68 (0–67 встроены в игру).
